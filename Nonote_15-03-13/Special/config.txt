@@ -1,0 +1,17 @@
+﻿┌────────────────────────────────────┐
+│ FICHIER DE CONFIGURATION DE NONOTE │
+└────────────────────────────────────┘
+┌────────────────────────────────────┐
+│ La modification de ce fichier ne   │
+│ doit normalement pas se faire en   │
+│ dehors du panneau de configuration │
+│ du logiciel. Nonote peut devenir   │
+│ instable ou inutilisable en cas    │
+│ de mauvais paramètres.             │
+└────────────────────────────────────┘
+<GEOMETRIE>988x667</GEOMETRIE>
+<F_FULL>0</F_FULL>
+<TEXTE_TAILLE>14</TEXTE_TAILLE>
+<TEXTE_POLICE>Times</TEXTE_POLICE>
+<COULEUR_FOND>Blanc</COULEUR_FOND>
+<LARGEUR_TEXTE>70</LARGEUR_TEXTE>

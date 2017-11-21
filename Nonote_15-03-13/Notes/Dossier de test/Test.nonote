@@ -1,0 +1,24 @@
+Quand « <BLEU>Léa</BLEU> » ou « <VERT>Mathieu</VERT> » sont apparus sur les bouteilles de Coca, cette campagne de pub m’indifférait. Jusqu’au jour où on m’a envoyé une photo avec mon prénom.
+
+<T2>Titre de niveau Deux
+</T2>Tant que les cannettes troquaient leur logo « <GRAS>Coca-Cola</GRAS> » par le gentillet « <JAUNE><GRAS>un ami</GRAS></JAUNE> », l’opération ne m’intriguait que de loin. Quand « <JAUNE>Marie</JAUNE> », « <VERT>Mathieu</VERT> » et « <BLEU>Léa</BLEU> » sont apparus – toujours dans la célèbre typo de la marque –, j’ai trouvé ça limité. Les mêmes prénoms revenaient. <CODE>Texte à chasse fixe.</CODE> <LIEN>http://perdu.com</LIEN> 
+
+<T3>Titre du troisième type
+</T3><CITATION>Une photo prise pendant un pot à <GRAS>Rue89</GRAS> et envoyée à un certain Alexandre (Blandine Grosjean). Jusqu’à vendredi dernier. Jusqu’à cet e-mail d’une amie, qui m’envoie la photo d’une pub pour Coca. La bouteille porte mon nom. </CITATION>
+<AUTEUR>Source : un vieil article de Rue89
+</AUTEUR>
+<CODE># Spécifications bla bla
+def Toto():
+    print("bla bla")</CODE>
+
+Vive Python... mais aussi le HTML !
+
+<CODE><html>
+    <head>
+        <title> Hey ! </title>
+    </head>
+    <body>
+        <p> Hahaha ! </p>
+    </body>
+</html><GRAS>
+</GRAS></CODE>

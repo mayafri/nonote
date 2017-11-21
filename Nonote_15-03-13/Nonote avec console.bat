@@ -1,0 +1,2 @@
+py .\Nonote.pyw
+pause

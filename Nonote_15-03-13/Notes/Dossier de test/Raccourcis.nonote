@@ -1,0 +1,42 @@
+<T3>Commandes globales
+</T3>
+<GRAS>Quitter </GRAS>   CTRL Q
+
+<GRAS>Sélectionner tout</GRAS>    CTRL A
+
+<GRAS>Export TXT / HTML / PDF</GRAS>    F5 / F6 / F7
+
+<GRAS>Plein écran</GRAS>    F11
+
+<GRAS>Explorer</GRAS>    F4
+
+<GRAS>Config</GRAS>    F3
+
+<GRAS>Guide</GRAS>    F1
+
+<GRAS>A propos</GRAS>    F2
+
+<T3>Commandes action document
+</T3>
+<GRAS>Enregistrer</GRAS>    CTRL S
+
+<GRAS>Undo </GRAS>   CTRL Z
+
+<GRAS>Redo </GRAS>   CTRL MAJ Z
+
+<GRAS>Code </GRAS>   CTRL C
+
+<GRAS>Image </GRAS>   CTRL P
+
+<GRAS>Image Web </GRAS>   CTRL MAJ P
+
+<GRAS>Dessiner </GRAS>   CTRL I
+
+<GRAS>Couper / Copier / Coller</GRAS>    CTRL X / C / V
+
+<GRAS>Surligner rien / jaune / vert / bleu</GRAS>    ALT A / Z / E / R
+
+<GRAS>Styles : t1 / t2 / t3 / t4 / paragraphe / citation / source / avertissement / conseil
+</GRAS>(pas implémenté)
+
+<GRAS>Effacer formatage </GRAS>   CTRL E
